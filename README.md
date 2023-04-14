@@ -6,11 +6,14 @@ For this challenge, we are attempting to visualize data in order to convince pot
 
 Products: 
 
-![Bike_Trips_Per_Min](https://user-images.githubusercontent.com/115503996/230474721-7c2ad465-9770-4878-8ce9-f344a5516a3a.png)
+<img width="794" alt="image" src="https://user-images.githubusercontent.com/115503996/232171721-624f7956-41f5-4bb9-82e0-e651659aee68.png">
 
-![Trips_Per_Weekday](https://user-images.githubusercontent.com/115503996/230474790-2c849467-2ed7-438a-89e6-20cc7c8ca10c.png)
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/115503996/232171794-68976524-00db-46a4-9bc9-0ec52de60630.png">
 
-![Trips_by_Gender](https://user-images.githubusercontent.com/115503996/230474816-347d5c22-b131-4f9e-aa3e-9ff18a7fe5d3.png)
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/115503996/232171843-01db0c38-53a1-48b4-baa0-5d77b94e387e.png">
+
 
 
 https://public.tableau.com/app/profile/turner.edwards/viz/DataAnalysisBootcamp_Module15Assignment_BUT-VIRT-DATA-PT-10-2022-U-B-TTH_16815157464140/CitiBike_Data?publish=yes
+
+***had to recreate the tableau in order to submit the link. New images are included - identical to original submission
